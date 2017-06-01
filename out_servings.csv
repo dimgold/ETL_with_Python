@@ -1,0 +1,511 @@
+s_id,country,type,servings
+1,Albania,beer,89
+2,Albania,wine,54
+3,Albania,spirit,132
+4,Algeria,beer,25
+5,Algeria,wine,14
+6,Andorra,beer,245
+7,Andorra,wine,312
+8,Andorra,spirit,138
+9,Angola,beer,217
+10,Angola,wine,45
+11,Angola,spirit,57
+12,Antigua & Barbuda,beer,102
+13,Antigua & Barbuda,wine,45
+14,Antigua & Barbuda,spirit,128
+15,Argentina,beer,193
+16,Argentina,wine,221
+17,Argentina,spirit,25
+18,Armenia,beer,21
+19,Armenia,wine,11
+20,Armenia,spirit,179
+21,Australia,beer,261
+22,Australia,wine,212
+23,Australia,spirit,72
+24,Austria,beer,279
+25,Austria,wine,191
+26,Austria,spirit,75
+27,Azerbaijan,beer,21
+28,Azerbaijan,wine,5
+29,Azerbaijan,spirit,46
+30,Bahamas,beer,122
+31,Bahamas,wine,51
+32,Bahamas,spirit,176
+33,Bahrain,beer,42
+34,Bahrain,wine,7
+35,Bahrain,spirit,63
+36,Barbados,beer,143
+37,Barbados,wine,36
+38,Barbados,spirit,173
+39,Belarus,beer,142
+40,Belarus,wine,42
+41,Belarus,spirit,373
+42,Belgium,beer,295
+43,Belgium,wine,212
+44,Belgium,spirit,84
+45,Belize,beer,263
+46,Belize,wine,8
+47,Belize,spirit,114
+48,Benin,beer,34
+49,Benin,wine,13
+50,Benin,spirit,4
+51,Bhutan,beer,23
+52,Bolivia,beer,167
+53,Bolivia,wine,8
+54,Bolivia,spirit,41
+55,Bosnia-Herzegovina,beer,76
+56,Bosnia-Herzegovina,wine,8
+57,Bosnia-Herzegovina,spirit,173
+58,Botswana,beer,173
+59,Botswana,wine,35
+60,Botswana,spirit,35
+61,Brazil,beer,245
+62,Brazil,wine,16
+63,Brazil,spirit,145
+64,Brunei,beer,31
+65,Brunei,wine,1
+66,Brunei,spirit,2
+67,Bulgaria,beer,231
+68,Bulgaria,wine,94
+69,Bulgaria,spirit,252
+70,Burkina Faso,beer,25
+71,Burkina Faso,wine,7
+72,Burkina Faso,spirit,7
+73,Burundi,beer,88
+74,Cote d'Ivoire,beer,37
+75,Cote d'Ivoire,wine,7
+76,Cote d'Ivoire,spirit,1
+77,Cabo Verde,beer,144
+78,Cabo Verde,wine,16
+79,Cabo Verde,spirit,56
+80,Cambodia,beer,57
+81,Cambodia,wine,1
+82,Cambodia,spirit,65
+83,Cameroon,beer,147
+84,Cameroon,wine,4
+85,Cameroon,spirit,1
+86,Canada,beer,240
+87,Canada,wine,100
+88,Canada,spirit,122
+89,Central African Republic,beer,17
+90,Central African Republic,wine,1
+91,Central African Republic,spirit,2
+92,Chad,beer,15
+93,Chad,wine,1
+94,Chad,spirit,1
+95,Chile,beer,130
+96,Chile,wine,172
+97,Chile,spirit,124
+98,China,beer,79
+99,China,wine,8
+100,China,spirit,192
+101,Colombia,beer,159
+102,Colombia,wine,3
+103,Colombia,spirit,76
+104,Comoros,beer,1
+105,Comoros,wine,1
+106,Comoros,spirit,3
+107,Congo,beer,76
+108,Congo,wine,9
+109,Congo,spirit,1
+110,Cook Islands,wine,74
+111,Cook Islands,spirit,254
+112,Costa Rica,beer,149
+113,Costa Rica,wine,11
+114,Costa Rica,spirit,87
+115,Croatia,beer,230
+116,Croatia,wine,254
+117,Croatia,spirit,87
+118,Cuba,beer,93
+119,Cuba,wine,5
+120,Cuba,spirit,137
+121,Cyprus,beer,192
+122,Cyprus,wine,113
+123,Cyprus,spirit,154
+124,Czech Republic,beer,361
+125,Czech Republic,wine,134
+126,Czech Republic,spirit,170
+127,DR Congo,beer,32
+128,DR Congo,wine,1
+129,DR Congo,spirit,3
+130,Denmark,beer,224
+131,Denmark,wine,278
+132,Denmark,spirit,81
+133,Djibouti,beer,15
+134,Djibouti,wine,3
+135,Djibouti,spirit,44
+136,Dominica,beer,52
+137,Dominica,wine,26
+138,Dominica,spirit,286
+139,Dominican Republic,beer,193
+140,Dominican Republic,wine,9
+141,Dominican Republic,spirit,147
+142,Ecuador,beer,162
+143,Ecuador,wine,3
+144,Ecuador,spirit,74
+145,Egypt,beer,6
+146,Egypt,wine,1
+147,Egypt,spirit,4
+148,El Salvador,beer,52
+149,El Salvador,wine,2
+150,El Salvador,spirit,69
+151,Equatorial Guinea,beer,92
+152,Equatorial Guinea,wine,233
+153,Eritrea,beer,18
+154,Estonia,beer,224
+155,Estonia,wine,59
+156,Estonia,spirit,194
+157,Ethiopia,beer,20
+158,Ethiopia,spirit,3
+159,Fiji,beer,77
+160,Fiji,wine,1
+161,Fiji,spirit,35
+162,Finland,beer,263
+163,Finland,wine,97
+164,Finland,spirit,133
+165,France,beer,127
+166,France,wine,370
+167,France,spirit,151
+168,Gabon,beer,347
+169,Gabon,wine,59
+170,Gabon,spirit,98
+171,Gambia,beer,8
+172,Gambia,wine,1
+173,Georgia,beer,52
+174,Georgia,wine,149
+175,Georgia,spirit,100
+176,Germany,beer,346
+177,Germany,wine,175
+178,Germany,spirit,117
+179,Ghana,beer,31
+180,Ghana,wine,10
+181,Ghana,spirit,3
+182,Greece,beer,133
+183,Greece,wine,218
+184,Greece,spirit,112
+185,Grenada,beer,199
+186,Grenada,wine,28
+187,Grenada,spirit,438
+188,Guatemala,beer,53
+189,Guatemala,wine,2
+190,Guatemala,spirit,69
+191,Guinea,beer,9
+192,Guinea,wine,2
+193,Guinea-Bissau,beer,28
+194,Guinea-Bissau,wine,21
+195,Guinea-Bissau,spirit,31
+196,Guyana,beer,93
+197,Guyana,wine,1
+198,Guyana,spirit,302
+199,Haiti,beer,1
+200,Haiti,wine,1
+201,Haiti,spirit,326
+202,Honduras,beer,69
+203,Honduras,wine,2
+204,Honduras,spirit,98
+205,Hungary,beer,234
+206,Hungary,wine,185
+207,Hungary,spirit,215
+208,Iceland,beer,233
+209,Iceland,wine,78
+210,Iceland,spirit,61
+211,India,beer,9
+212,India,spirit,114
+213,Indonesia,beer,5
+214,Indonesia,spirit,1
+215,Iraq,beer,9
+216,Iraq,spirit,3
+217,Ireland,beer,313
+218,Ireland,wine,165
+219,Ireland,spirit,118
+220,Israel,beer,63
+221,Israel,wine,9
+222,Israel,spirit,69
+223,Italy,beer,85
+224,Italy,wine,237
+225,Italy,spirit,42
+226,Jamaica,beer,82
+227,Jamaica,wine,9
+228,Jamaica,spirit,97
+229,Japan,beer,77
+230,Japan,wine,16
+231,Japan,spirit,202
+232,Jordan,beer,6
+233,Jordan,wine,1
+234,Jordan,spirit,21
+235,Kazakhstan,beer,124
+236,Kazakhstan,wine,12
+237,Kazakhstan,spirit,246
+238,Kenya,beer,58
+239,Kenya,wine,2
+240,Kenya,spirit,22
+241,Kiribati,beer,21
+242,Kiribati,wine,1
+243,Kiribati,spirit,34
+244,Kyrgyzstan,beer,31
+245,Kyrgyzstan,wine,6
+246,Kyrgyzstan,spirit,97
+247,Laos,beer,62
+248,Laos,wine,123
+249,Latvia,beer,281
+250,Latvia,wine,62
+251,Latvia,spirit,216
+252,Lebanon,beer,20
+253,Lebanon,wine,31
+254,Lebanon,spirit,55
+255,Lesotho,beer,82
+256,Lesotho,spirit,29
+257,Liberia,beer,19
+258,Liberia,wine,2
+259,Liberia,spirit,152
+260,Lithuania,beer,343
+261,Lithuania,wine,56
+262,Lithuania,spirit,244
+263,Luxembourg,beer,236
+264,Luxembourg,wine,271
+265,Luxembourg,spirit,133
+266,Madagascar,beer,26
+267,Madagascar,wine,4
+268,Madagascar,spirit,15
+269,Malawi,beer,8
+270,Malawi,wine,1
+271,Malawi,spirit,11
+272,Malaysia,beer,13
+273,Malaysia,spirit,4
+274,Mali,beer,5
+275,Mali,wine,1
+276,Mali,spirit,1
+277,Malta,beer,149
+278,Malta,wine,120
+279,Malta,spirit,100
+280,Mauritius,beer,98
+281,Mauritius,wine,18
+282,Mauritius,spirit,31
+283,Mexico,beer,238
+284,Mexico,wine,5
+285,Mexico,spirit,68
+286,Micronesia,beer,62
+287,Micronesia,wine,18
+288,Micronesia,spirit,50
+289,Mongolia,beer,77
+290,Mongolia,wine,8
+291,Mongolia,spirit,189
+292,Montenegro,beer,31
+293,Montenegro,wine,128
+294,Montenegro,spirit,114
+295,Morocco,beer,12
+296,Morocco,wine,10
+297,Morocco,spirit,6
+298,Mozambique,beer,47
+299,Mozambique,wine,5
+300,Mozambique,spirit,18
+301,Myanmar,beer,5
+302,Myanmar,spirit,1
+303,Namibia,beer,376
+304,Namibia,wine,1
+305,Namibia,spirit,3
+306,Nauru,beer,49
+307,Nauru,wine,8
+308,Nepal,beer,5
+309,Nepal,spirit,6
+310,Netherlands,beer,251
+311,Netherlands,wine,190
+312,Netherlands,spirit,88
+313,New Zealand,beer,203
+314,New Zealand,wine,175
+315,New Zealand,spirit,79
+316,Nicaragua,beer,78
+317,Nicaragua,wine,1
+318,Nicaragua,spirit,118
+319,Niger,beer,3
+320,Niger,wine,1
+321,Niger,spirit,2
+322,Nigeria,beer,42
+323,Nigeria,wine,2
+324,Nigeria,spirit,5
+325,Niue,beer,188
+326,Niue,wine,7
+327,Niue,spirit,200
+328,Norway,beer,169
+329,Norway,wine,129
+330,Norway,spirit,71
+331,Oman,beer,22
+332,Oman,wine,1
+333,Oman,spirit,16
+334,Palau,beer,306
+335,Palau,wine,23
+336,Palau,spirit,63
+337,Panama,beer,285
+338,Panama,wine,18
+339,Panama,spirit,104
+340,Papua New Guinea,beer,44
+341,Papua New Guinea,wine,1
+342,Papua New Guinea,spirit,39
+343,Paraguay,beer,213
+344,Paraguay,wine,74
+345,Paraguay,spirit,117
+346,Peru,beer,163
+347,Peru,wine,21
+348,Peru,spirit,160
+349,Philippines,beer,71
+350,Philippines,wine,1
+351,Philippines,spirit,186
+352,Poland,beer,343
+353,Poland,wine,56
+354,Poland,spirit,215
+355,Portugal,beer,194
+356,Portugal,wine,339
+357,Portugal,spirit,67
+358,Qatar,beer,1
+359,Qatar,wine,7
+360,Qatar,spirit,42
+361,South Korea,beer,140
+362,South Korea,wine,9
+363,South Korea,spirit,16
+364,Moldova,beer,109
+365,Moldova,wine,18
+366,Moldova,spirit,226
+367,Romania,beer,297
+368,Romania,wine,167
+369,Romania,spirit,122
+370,Russian Federation,beer,247
+371,Russian Federation,wine,73
+372,Russian Federation,spirit,326
+373,Rwanda,beer,43
+374,Rwanda,spirit,2
+375,St. Kitts & Nevis,beer,194
+376,St. Kitts & Nevis,wine,32
+377,St. Kitts & Nevis,spirit,205
+378,St. Lucia,beer,171
+379,St. Lucia,wine,71
+380,St. Lucia,spirit,315
+381,St. Vincent & the Grenadines,beer,120
+382,St. Vincent & the Grenadines,wine,11
+383,St. Vincent & the Grenadines,spirit,221
+384,Samoa,beer,105
+385,Samoa,wine,24
+386,Samoa,spirit,18
+387,Sao Tome & Principe,beer,56
+388,Sao Tome & Principe,wine,140
+389,Sao Tome & Principe,spirit,38
+390,Saudi Arabia,spirit,5
+391,Senegal,beer,9
+392,Senegal,wine,7
+393,Senegal,spirit,1
+394,Serbia,beer,283
+395,Serbia,wine,127
+396,Serbia,spirit,131
+397,Seychelles,beer,157
+398,Seychelles,wine,51
+399,Seychelles,spirit,25
+400,Sierra Leone,beer,25
+401,Sierra Leone,wine,2
+402,Sierra Leone,spirit,3
+403,Singapore,beer,60
+404,Singapore,wine,11
+405,Singapore,spirit,12
+406,Slovakia,beer,196
+407,Slovakia,wine,116
+408,Slovakia,spirit,293
+409,Slovenia,beer,270
+410,Slovenia,wine,276
+411,Slovenia,spirit,51
+412,Solomon Islands,beer,56
+413,Solomon Islands,wine,1
+414,Solomon Islands,spirit,11
+415,South Africa,beer,225
+416,South Africa,wine,81
+417,South Africa,spirit,76
+418,Spain,beer,284
+419,Spain,wine,112
+420,Spain,spirit,157
+421,Sri Lanka,beer,16
+422,Sri Lanka,spirit,104
+423,Sudan,beer,8
+424,Sudan,spirit,13
+425,Suriname,beer,128
+426,Suriname,wine,7
+427,Suriname,spirit,178
+428,Swaziland,beer,90
+429,Swaziland,wine,2
+430,Swaziland,spirit,2
+431,Sweden,beer,152
+432,Sweden,wine,186
+433,Sweden,spirit,60
+434,Switzerland,beer,185
+435,Switzerland,wine,280
+436,Switzerland,spirit,100
+437,Syria,beer,5
+438,Syria,wine,16
+439,Syria,spirit,35
+440,Tajikistan,beer,2
+441,Tajikistan,spirit,15
+442,Thailand,beer,99
+443,Thailand,wine,1
+444,Thailand,spirit,258
+445,Macedonia,beer,106
+446,Macedonia,wine,86
+447,Macedonia,spirit,27
+448,Timor-Leste,beer,1
+449,Timor-Leste,wine,4
+450,Timor-Leste,spirit,1
+451,Togo,beer,36
+452,Togo,wine,19
+453,Togo,spirit,2
+454,Tonga,beer,36
+455,Tonga,wine,5
+456,Tonga,spirit,21
+457,Trinidad & Tobago,beer,197
+458,Trinidad & Tobago,wine,7
+459,Trinidad & Tobago,spirit,156
+460,Tunisia,beer,51
+461,Tunisia,wine,20
+462,Tunisia,spirit,3
+463,Turkey,beer,51
+464,Turkey,wine,7
+465,Turkey,spirit,22
+466,Turkmenistan,beer,19
+467,Turkmenistan,wine,32
+468,Turkmenistan,spirit,71
+469,Tuvalu,beer,6
+470,Tuvalu,wine,9
+471,Tuvalu,spirit,41
+472,Uganda,beer,45
+473,Uganda,spirit,9
+474,Ukraine,beer,206
+475,Ukraine,wine,45
+476,Ukraine,spirit,237
+477,United Arab Emirates,beer,16
+478,United Arab Emirates,wine,5
+479,United Arab Emirates,spirit,135
+480,United Kingdom,beer,219
+481,United Kingdom,wine,195
+482,United Kingdom,spirit,126
+483,Tanzania,beer,36
+484,Tanzania,wine,1
+485,Tanzania,spirit,6
+486,USA,beer,249
+487,USA,wine,84
+488,USA,spirit,158
+489,Uruguay,beer,115
+490,Uruguay,wine,220
+491,Uruguay,spirit,35
+492,Uzbekistan,beer,25
+493,Uzbekistan,wine,8
+494,Uzbekistan,spirit,101
+495,Vanuatu,beer,21
+496,Vanuatu,wine,11
+497,Vanuatu,spirit,18
+498,Venezuela,beer,333
+499,Venezuela,wine,3
+500,Venezuela,spirit,100
+501,Vietnam,beer,111
+502,Vietnam,wine,1
+503,Vietnam,spirit,2
+504,Yemen,beer,6
+505,Zambia,beer,32
+506,Zambia,wine,4
+507,Zambia,spirit,19
+508,Zimbabwe,beer,64
+509,Zimbabwe,wine,4
+510,Zimbabwe,spirit,18
