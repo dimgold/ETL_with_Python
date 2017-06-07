@@ -8,5 +8,5 @@ ETL with Python Training - Taught by me during [Data Warehousing course - Tel Av
 
 ### Data files:
 * **drinks.json** - drinks consumption data ([source](https://github.com/justmarkham)) 
-* **drinks.zip** - zipped json file (used for an example in ETL notebook)
+* **drinks.zip** - zipped json file (used for a zip file example in ETL notebook)
 * assuming you have default build-in **world** schema of MySQL (mysql-io exercise) if not you can get it by running **CreateWorld.sql** script
