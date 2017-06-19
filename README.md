@@ -3,8 +3,8 @@ ETL with Python Training - Taught by me during [Data Warehousing course - Tel Av
   
 ### The Training is planned for ~2 hours and containing 3 notebook files:
 * **[jupyter-notebook.ipynb](/jupyter-notebook.ipynb)** - quick Jupiter notebook introduction and tutorial
-* **[Mysql-io.ipynb](/Mysql-io.ipynb)**   - Input/Output to MySQL using [MySQLdb connector](http://mysql-python.sourceforge.net/MySQLdb.html)
-* **[ETL with Python.ipynb](/ETL%20with%20Python.ipynb)**  - ETL with python using [pETL](https://petl.readthedocs.io/en/latest/) package
+* **[Mysql-io.ipynb](/Mysql-io.ipynb)**   - Input/Output to MySQL using [``MySQLdb`` connector](http://mysql-python.sourceforge.net/MySQLdb.html)
+* **[ETL with Python.ipynb](/ETL%20with%20Python.ipynb)**  - ETL with python using [``petl``](https://petl.readthedocs.io/en/latest/) package
 * **[CSV-io](/csv_io/CSV-io.ipynb)** - ``csv`` library usage examples
 
 ### Data files:
@@ -12,5 +12,5 @@ ETL with Python Training - Taught by me during [Data Warehousing course - Tel Av
 * **drinks.zip** - zipped json file (used for a zip file example in ETL notebook)
 * assuming you have default build-in **world** schema of MySQL (mysql-io exercise) if not you can get it by running **CreateWorld.sql** script
 * **CreateWorld.sql** - dump of sql world schema for mysql-io 
-* **file1.csv**/**file2.csv**/**flie3.csv** - csv examples for ``csv library``
+* **file1.csv**/**file2.csv**/**flie3.csv** - csv examples for ``csv`` library
 * **simpsons_phone_book.csv** - csv example for ``sniffer``
