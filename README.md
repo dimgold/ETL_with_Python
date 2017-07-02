@@ -1,5 +1,5 @@
 # ETL with Python and MySQL
-ETL with Python Training - Taught by me during [Data Warehousing course - Tel Aviv University 2017](http://www30.tau.ac.il/yedion/syllabuse.asp?course=0571417202)
+ETL with Python Training - Taught during [Data Warehousing course - Tel Aviv University 2017](http://www30.tau.ac.il/yedion/syllabuse.asp?course=0571417202)
   
 ### The Training is planned for ~2 hours and contains 4 notebook files:
 * **[jupyter-notebook.ipynb](/jupyter-notebook.ipynb)** - quick Jupiter notebook introduction and tutorial
