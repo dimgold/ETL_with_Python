@@ -4,7 +4,7 @@ ETL with Python Training - Taught during [Data Warehousing course - Tel Aviv Uni
 ### The Training is planned for ~2 hours and contains 4 notebook files:
 * **[jupyter-notebook.ipynb](/jupyter-notebook.ipynb)** - quick Jupiter notebook introduction and tutorial
 * **[Mysql-io.ipynb](/Mysql-io.ipynb)**   - Input/Output to MySQL using [``MySQLdb`` connector](http://mysql-python.sourceforge.net/MySQLdb.html)
-* **[ETL with Python.ipynb](/ETL%20with%20Python.ipynb)**  - ETL with python using [``petl``](https://petl.readthedocs.io/en/latest/) package
+* **[ETL with Python.ipynb](/ETL_with_Python.ipynb)**  - ETL with python using [``petl``](https://petl.readthedocs.io/en/latest/) package
 * **[CSV-io](/csv_io/CSV-io.ipynb)** - ``csv`` library usage examples
 
 ### Data files:
