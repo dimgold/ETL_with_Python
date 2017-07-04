@@ -8,7 +8,7 @@ ETL with Python Training - Taught during [Data Warehousing course - Tel Aviv Uni
 
 * **[ETL with Python.ipynb](/ETL_with_Python.ipynb)**  - ETL with python using [``petl``](https://petl.readthedocs.io/en/latest/) package
 
-* **[CSV-io](/csv_io/CSV-io.ipynb)** - ``csv`` library usage examples
+* Extra: **[CSV-io](/csv_io/CSV-io.ipynb)** - ``csv`` library usage examples
 
 ### Data files:
 * **drinks.json** - drinks consumption data ([source](https://github.com/justmarkham)) 
