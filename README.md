@@ -15,7 +15,7 @@ ETL with Python Training - Taught during [Data Warehousing course - Tel Aviv Uni
 
 * **drinks.zip** - zipped json file (used for a zip file example in ETL notebook)
 
-* assuming you have default build-in **world** schema of MySQL (mysql-io exercise) if not you can get it by running **CreateWorld.sql**  - dump of sql scripy for creating world schema for *mysql-io* exercise. 
+* assuming you have default build-in **world** schema of MySQL (for mysql-io exercise). If not you can get it by running **CreateWorld.sql**  - dump of sql scripy for creating world schema for *mysql-io* exercise. 
 
 * **file1.csv**/**file2.csv**/**flie3.csv** - csv examples for ``csv`` library
 
