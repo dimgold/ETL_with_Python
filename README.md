@@ -1,4 +1,8 @@
 # ETL with Python and MySQL
+
+![](http://ascendiatech.in/images/etl-bg.png)
+
+
 ETL with Python Training - Taught during [Data Warehousing course - Tel Aviv University 2017](http://www30.tau.ac.il/yedion/syllabuse.asp?course=0571417202)
   
 ### The Training is planned for ~2 hours and contains 4 notebook files:
